@@ -1,6 +1,11 @@
 # Sentiment-Driven Behavioral Trading Analysis on Hyperliquid
 
 ## Project Overview
+## Notebook Access
+
+Kaggle Notebook:  
+[https://www.kaggle.com/code/tejakarri/sentiment-trading-analysis-ipynb]
+
 
 This project investigates how Bitcoin market sentiment influences trader profitability, capital deployment behavior, whale-trade dynamics, and predictive trade outcomes using Hyperliquid execution data and the Bitcoin Fear & Greed Index.
 
